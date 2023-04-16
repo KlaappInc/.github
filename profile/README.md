@@ -47,9 +47,9 @@
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for
 the acknowledgements section. Here are a few examples.
 
-* [![React][React-Native]][React-Native-url]
-* [![LoopBack][LoopBack]][LoopBack-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
+[![React][React-Native]][React-Native-url]
+[![LoopBack][LoopBack]][LoopBack-url]
+[![MongoDB][MongoDB]][MongoDB-url]
 
 <!-- CONTACT -->
 
