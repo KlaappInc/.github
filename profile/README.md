@@ -30,8 +30,6 @@
 
   <p align="center">
     ⛽️ EssenCiel is an innovative mobile app that simplifies the process of finding gas stations for drivers in France, providing a user-friendly experience.
-    <br />
-    <a href="https://github.com/EssenCiel/.github/issues">Report Bug / Request Feature</a>
   </p>
 </div>
 
@@ -43,9 +41,6 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://essenciel.app) -->
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for
-the acknowledgements section. Here are a few examples.
 
 [![React][React-Native]][React-Native-url]
 [![LoopBack][LoopBack]][LoopBack-url]
