@@ -53,6 +53,7 @@
 - **Thomas ROUX** - *Product Owner & Scrum master* - [@thomas-rx](https://thomasroux.me/)
 - **Bastien SINIAK** - *Product Owner & Scrum master* - [@bastien-snk](https://github.com/bastien-snk)
 - **Christophe SOLÉ** - *Product Owner & Developer* - [@crtph_](https://github.com/crtph)
+- **Gwénaël GUILLAUME** - *Developer* - [@W0lfTi9r0uX](https://github.com/W0lfTi9r0uX)
 
 
 ## Contact
