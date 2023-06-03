@@ -48,13 +48,6 @@
 
 <!-- CONTACT -->
 
-## Team
-
-- **Thomas ROUX** - *Product Owner & Scrum master* - [@thomas-rx](https://thomasroux.me/)
-- **Gwénaël GUILLAUME** - *Developer* - [@W0lfTi9r0uX](https://github.com/W0lfTi9r0uX)
-- **Jordan GALATOLA** - *Developer* - [@NadrojX](https://github.com/NadrojX)
-
-
 ## Contact
 
 EssenCiel - [@EssenCiel](https://twitter.com/EssenCiel) - contact@essenciel.app
