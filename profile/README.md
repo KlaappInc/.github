@@ -33,24 +33,11 @@
   </p>
 </div>
 
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://essenciel.app) -->
-
-### Built With
-
-[![React][React-Native]][React-Native-url]
-[![LoopBack][LoopBack]][LoopBack-url]
-[![MongoDB][MongoDB]][MongoDB-url]
-
 <!-- CONTACT -->
 
 ## Contact
 
-EssenCiel - [@EssenCiel](https://twitter.com/EssenCiel) - contact@essenciel.app
+EssenCiel - [@essencielapp](https://twitter.com/essencielapp) - contact@essenciel.app
 
 
 <!-- ACKNOWLEDGMENTS -->
