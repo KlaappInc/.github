@@ -1,59 +1,41 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/EssenCiel/essenciel-readme-base">
-    <img src="https://avatars.githubusercontent.com/u/128941531?s=200&v=4" alt="Logo" width="80" height="80">
+<p align="center">
+  <a href="https://github.com/EssenCiel/">
+    <img src="https://avatars.githubusercontent.com/u/128941531?s=200&v=4" alt="Logo" width="200" height="200">
   </a>
+</p>
 
-<h3 align="center">EssenCiel Project</h3>
+<p align="center">
+EssenCiel simplifies gas station discovery for drivers with its mobile app.
+</p>
 
-  <p align="center">
-    ⛽️ EssenCiel is an innovative mobile app that simplifies the process of finding gas stations for drivers in France, providing a user-friendly experience.
-  </p>
-</div>
+## Features
 
-<!-- CONTACT -->
+- **User-Friendly**: EssenCiel offers an easy-to-use interface, ensuring a hassle-free experience for all users.
 
-## Contact
+- **Real-Time Information**: Get up-to-the-minute details on gas station prices, fuel availability, and more for informed decision-making.
 
-EssenCiel - [@essencielapp](https://twitter.com/essencielapp) - contact@essenciel.app
+- **Location Assistance**: Effortlessly locate the nearest gas stations based on your current location.
+
+- **Smart Filters**: Use powerful filters to refine your search by fuel type, amenities, and distance.
+
+- **Notifications**: Stay informed with timely alerts about special deals, price changes, and nearby gas stations that match your preferences.
+
+- **Seamless Navigation**: Instantly launch your preferred navigation app (e.g., Waze, Google Maps) for directions to your chosen gas station.
+
+## Contact Us
+
+If you have any questions, feedback, or inquiries, feel free to reach out to us:
+
+- Twitter: [@essencielapp](https://twitter.com/essencielapp)
+- Email: [contact@nexyon.dev](mailto:contact@nexyon.dev)
 
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+## Technologies Used
 
-[product-screenshot]: images/screenshot.png
+EssenCiel is built with the following technologies:
 
-[React-Native]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-[React-Native-url]: https://reactnative.dev/
-
-[LoopBack]: https://img.shields.io/badge/LoopBack-007ACC?style=for-the-badge&logo=loopback&logoColor=white
-
-[LoopBack-url]: https://loopback.io/
-
-[MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-
-[MongoDB-url]: https://www.mongodb.com/
+- **React Native**: We use React Native to create a smooth and responsive mobile app interface.
+  
+- **LoopBack**: Our backend is powered by LoopBack, ensuring robust and secure data handling.
+  
+- **MongoDB**: MongoDB serves as our database, enabling efficient data storage and retrieval.
