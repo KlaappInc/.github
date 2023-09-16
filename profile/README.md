@@ -10,7 +10,8 @@ EssenCiel simplifies gas station discovery for drivers with its mobile app.
 
 <p align="center">
     <a href="https://status.nexyon.dev/status/essenciel">
-      <img src="https://status.nexyon.dev/api/badge/1/status?upLabel=API%20UP&downLabel=API%20DOWN&style=flat-square" alt="Uptime Kuma Badge">
+            <img src="https://status.nexyon.dev/api/badge/1/uptime?labelPrefix=API+&style=for-the-badge" alt="Uptime Kuma Badge">
+      <img src="https://status.nexyon.dev/api/badge/4/uptime?labelPrefix=STORAGE+&style=for-the-badge" alt="Uptime Kuma Badge">
     </a>
 </p>
 
