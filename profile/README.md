@@ -1,48 +1,16 @@
-<p align="center">
-  <a href="https://github.com/EssenCiel/">
-    <img src="https://avatars.githubusercontent.com/u/128941531?s=200&v=4" alt="Logo" width="200" height="200">
-  </a>
-</p>
 
-<p align="center">
-EssenCiel simplifies gas station discovery for drivers with its mobile app.
-</p>
+![Nexyon Banner](https://graphicsfamily.com/wp-content/uploads/edd/2022/01/Free-Professional-Banner-Template-scaled.jpg)
 
-<p align="center">
-    <a href="https://status.nexyon.dev/status/essenciel">
-            <img src="https://status.nexyon.dev/api/badge/1/uptime?labelPrefix=API+&style=for-the-badge" alt="Uptime Kuma Badge">
-      <img src="https://status.nexyon.dev/api/badge/4/uptime?labelPrefix=STORAGE+&style=for-the-badge" alt="Uptime Kuma Badge">
-    </a>
-</p>
+## EssenCiel - Your Fuel Companion
 
-## Features
+Discover EssenCiel by Nexyon – the ultimate fuel companion for your journeys! Available on both iOS and Android, EssenCiel is your go-to mobile app to effortlessly locate nearby fuel stations across France.
 
-- **User-Friendly**: EssenCiel offers an easy-to-use interface, ensuring a hassle-free experience for all users.
+### Highlights
 
-- **Real-Time Information**: Get up-to-the-minute details on gas station prices, fuel availability, and more for informed decision-making.
+- **Instant Fuel Locator:** Find the nearest fuel stations with a tap, ensuring you never run out of gas during your travels.
 
-- **Location Assistance**: Effortlessly locate the nearest gas stations based on your current location.
+- **Live Fuel Updates:** Stay ahead of the game with real-time fuel prices and station information, helping you make smart refueling decisions.
 
-- **Smart Filters**: Use powerful filters to refine your search by fuel type, amenities, and distance.
-
-- **Notifications**: Stay informed with timely alerts about special deals, price changes, and nearby gas stations that match your preferences.
-
-- **Seamless Navigation**: Instantly launch your preferred navigation app (e.g., Waze, Google Maps) for directions to your chosen gas station.
-
-## Contact Us
-
-If you have any questions, feedback, or inquiries, feel free to reach out to us:
-
-- Twitter: [@essencielapp](https://twitter.com/essencielapp)
-- Email: [contact@nexyon.dev](mailto:contact@nexyon.dev)
-
-
-## Technologies Used
-
-EssenCiel is built with the following technologies:
-
-- **React Native**: We use React Native to create a smooth and responsive mobile app interface.
-  
-- **LoopBack**: Our backend is powered by LoopBack, ensuring robust and secure data handling.
-  
-- **MongoDB**: MongoDB serves as our database, enabling efficient data storage and retrieval.
+- **Sleek & Simple Design:** EssenCiel boasts a sleek and user-friendly design, making it easy for everyone to use.
+----
+[![Download on the App Store](https://miro.medium.com/v2/resize:fit:600/format:webp/1*xqT83bMEz92IBYxS9UQNow.png)](https://apps.apple.com/fr/app/essenciel/id6461419867) [![Get it on Google Play](https://miro.medium.com/v2/resize:fit:600/format:webp/1*nZu0dsnlCQltPT1QMCHFAA.png)](https://play.google.com/store/apps/details?id=dev.nexyon.essenciel)
