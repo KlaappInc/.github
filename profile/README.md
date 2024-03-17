@@ -43,6 +43,6 @@ EssenCiel is built with the following technologies:
 
 - **React Native**: We use React Native to create a smooth and responsive mobile app interface.
   
-- **LoopBack**: Our backend is powered by LoopBack, ensuring robust and secure data handling.
+- **Django**: Our backend is powered by Djano, ensuring robust and secure data handling.
   
 - **MongoDB**: MongoDB serves as our database, enabling efficient data storage and retrieval.
