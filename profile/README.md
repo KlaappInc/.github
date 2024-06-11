@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/EssenCiel/">
-    <img src="https://avatars.githubusercontent.com/u/128941531?s=200&v=4" alt="Logo" width="200" height="200">
+  <a href="https://github.com/FillzzCo/">
+    <img src="https://data.fillzz.cloud/brand/logo.svg" alt="Logo" width="200" height="200">
   </a>
 </p>
 
 <p align="center">
-EssenCiel simplifies gas station discovery for drivers with its mobile app.
+  Fillzz simplifies gas station discovery for drivers.
 </p>
 
 ## Contact Us
 
-If you have any questions, feedback, or inquiries, feel free to reach out to us here [contact@nexyon.dev](mailto:contact@nexyon.dev).
+If you have any questions, feedback, or inquiries, feel free to reach out to us here [contact@fillzz.com](mailto:contact@fillzz.com).
