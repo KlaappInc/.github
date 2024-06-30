@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/FillzzCo/">
-    <img src="https://data.fillzz.cloud/brand/logo.svg" alt="Logo" width="200" height="200">
+  <a href="https://fillzz.com">
+      <img src="https://data.fillzz.cloud/brand/banner.svg" alt="logo" width="400"  height="200" style="border-radius:10px; background-color: #fff; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;" />
   </a>
 </p>
 
