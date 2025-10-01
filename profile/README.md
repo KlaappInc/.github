@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../4.png" alt="Klaapp logo" width="400"  height="200" style="border-radius:10px; background-color: #fff; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;" />
+  <img src="../4.png" alt="Klaapp logo" width="400"  height="400" style="border-radius:10px; background-color: #fff; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-bottom: 20px;" />
 </p>
 
 <p align="center">
