@@ -8,4 +8,4 @@
 
 ## Contact Us
 
-If you have any questions, feedback, or inquiries, feel free to reach out to us at [contact@klaapp.com](mailto:contact@klaapp.io).
+If you have any questions, feedback, or inquiries, feel free to reach out to us at [contact@klaapp.io](mailto:contact@klaapp.io).
