@@ -1,0 +1,3 @@
+# Org-wide default code owners (KlaappInc/.github).
+# Applies to any repo that does not define its own CODEOWNERS.
+* @thomas-rx
